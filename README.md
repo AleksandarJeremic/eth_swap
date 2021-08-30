@@ -1,4 +1,4 @@
-# eth_swap
+# eth_swap   IN PROGRESS!
 ethereum swap YT project practice
 
 Dependencies: - Node.js(9.10.0) 
